@@ -54,7 +54,7 @@
             </configuration>
           </plugin>
         </plugins>
-      </build>
+      </build> 
       <dependencies>
         <dependency>
           <groupId>org.sonarsource.java</groupId>
